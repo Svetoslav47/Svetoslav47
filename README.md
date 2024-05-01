@@ -10,6 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Svetoslav47](https://github.com/Svetoslav47)
 
 - 📫 How to reach me **svetoslav2806@gmail.com**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
