@@ -5,7 +5,7 @@
         src="https://komarev.com/ghpvc/?username=svetoslav47&label=Profile%20views&color=0e75b6&style=flat"
         alt="svetoslav47" /> </p>
 
-- I’m currently working on [PhotoStereo](https://github.com/SectorCT/StereoPhoto)
+- I’m currently working on [StereoMath](https://github.com/SectorCT/StereoMath)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Svetoslav47](https://github.com/Svetoslav47)
 
