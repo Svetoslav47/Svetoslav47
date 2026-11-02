@@ -44,9 +44,9 @@ Also built: websites for [Tuida](https://www.tuida.life) and [DogTags BG](https:
 
 ## Stack
 
-**Mobile:** React Native, Expo, EAS, fastlane, App Store Connect, Google Play Console
-**Web:** React, TypeScript, Vite
-**Backend:** Node.js, Express, MongoDB, PostgreSQL, Django, Stripe and Stripe Connect, AWS S3, Docker, GitHub Actions
-**Hardware:** ESP32 (C++), Bluetooth LE, OTA updates, KiCad for the board I'm designing
+- **Mobile:** React Native, Expo, EAS, fastlane, App Store Connect, Google Play Console
+- **Web:** React, TypeScript, Vite
+- **Backend:** Node.js, Express, MongoDB, PostgreSQL, Django, Stripe and Stripe Connect, AWS S3, Docker, GitHub Actions
+- **Hardware:** ESP32 (C++), Bluetooth LE, OTA updates, KiCad for the board I'm designing
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/iliev-svetoslav/).
