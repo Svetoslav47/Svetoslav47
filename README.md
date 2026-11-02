@@ -32,7 +32,10 @@ The CarBNP code is private, so it isn't in my repo list. Most of the green squar
 | [StereoMath](https://github.com/SectorCT/StereoMath) | Take a photo of a 3D geometry problem and get a step-by-step solution plus a 3D figure you can rotate. Hack TUES X, 2nd place | Top contributor on a team of five: the React Native app and the 3D renderer |
 | [WayPoint](https://github.com/SectorCT/WayPoint) | Plans daily delivery routes: clusters packages per driver with K-means, routes them with OSRM, reroutes live when a driver goes off the plan. Hack TUES 11, Bosch award | Led the React Native frontend |
 
-Also built: websites for [Tuida](https://www.tuida.life) and [DogTags BG](https://dogtag.bg), and SimplyForm, a form-to-email service used by client sites (private).
+| [Tuida](https://www.tuida.life) · [code](https://github.com/Svetoslav47/Tuida) | Sales site for an 18-house development by the Black Sea: interactive site map with reserved and sold houses, house pages, construction progress, gallery and a buyer contact form | Main developer, with Nikola Georgiev. React 19, TypeScript, Vite, Tailwind, Vercel |
+| [Morea](https://morea-seaside.com/?lang=en) | Site for a seaside apartment building in Priboy, Varna, in Bulgarian and English | Built with Nikola Georgiev, who led it; I set up deployment |
+
+Also built: the website for [DogTags BG](https://dogtag.bg), and SimplyForm, a form-to-email service used by client sites (private).
 
 ## Awards
 
