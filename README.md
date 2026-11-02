@@ -1,88 +1,52 @@
-<h1 align="center">Hi, I'm Svetoslav Iliev</h1>
-<h3 align="center">A frontend developer from Sofia, Bulgaria</h3>
+# Svetoslav Iliev
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=svetoslav47&label=Profile%20views&color=0e75b6&style=flat"
-        alt="svetoslav47" /> </p>
+Co-founder and CTO of [CarBNP](https://carbnp.com). Full-stack and mobile developer in Sofia, Bulgaria.
 
-- I’m currently working on [StereoMath](https://github.com/SectorCT/StereoMath)
+I build the whole product: the React Native app, the Node.js server, the web dashboard, Stripe payments, and the ESP32 firmware when there's a device involved.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Svetoslav47](https://github.com/Svetoslav47)
+## CarBNP
 
-- 📫 How to reach me **svetoslav2806@gmail.com**
-</p>
+[![CarBNP, a private parking marketplace on web, iOS and Android](assets/carbnp.png)](https://carbnp.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-        <a href="https://linkedin.com/in/svetoslav iliev" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="svetoslav iliev" height="30" width="40" /></a>
-        <a href="https://discord.gg/svetoslaviliev" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="svetoslaviliev" height="30" width="40" /></a>
-</p>
+CarBNP lets drivers book private parking by the hour, day or month and open the garage barrier from their phone. About 2,000 people use it, with around 400 spaces in 30 locations. In June 2026 it won 1st place in the Business Stars category of Best Youth Startup in Bulgaria, out of 330+ teams.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" /> </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="40" height="40" /> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
-            height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
+I wrote most of it, about 90% of the ~1,500 commits in the main repo:
 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
-            src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
+- React Native (Expo) app for iOS and Android, with store releases automated through GitHub Actions, EAS and fastlane
+- Node.js, TypeScript and MongoDB API with Stripe Connect payouts to space owners
+- The website, the partner dashboard and the admin panel, all in React
+- ESP32 firmware for the barrier controller: Bluetooth LE, commands signed by the server, over-the-air updates
+- The next-generation controller board, which I'm designing now
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-            width="40" height="40" /> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" /> </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-            alt="redis" width="40" height="40" /> </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-            alt="selenium" width="40" height="40" /> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a>
-</p>
+[carbnp.com](https://carbnp.com) · [App Store](https://apps.apple.com/bg/app/carbnp/id6755657551) · [Google Play](https://play.google.com/store/apps/details?id=com.carbnpllc.carbnp)
+
+The CarBNP code is private, so it isn't in my repo list. Most of the green squares on this page are that work.
+
+## Selected work
+
+| Project | What it does | My part |
+|---|---|---|
+| [MX Zaki booking](https://mxzaki.com) · [code](https://github.com/Svetoslav47/mxzaki-booking) | Online booking for a Sofia barbershop: pick a salon, service, barber and time; staff get an admin calendar that updates live | Sole developer. React, Express, MongoDB, Socket.IO, Google Calendar sync |
+| [SimFab EU](https://eu.simfab.com) | E-commerce store for sim-racing equipment | Backend with the lead developer: cart and stock for bundles, Stripe and PayPal checkout, DHL/FedEx shipping quotes, SEO pre-rendering, Docker. Code is private |
+| [CityTour](https://github.com/Svetoslav47/citytour) | HackYeah 2026. A walking tour guide that knows where you are and which way you're facing, and tells you about the place in front of you in English, Polish or Chinese. Native HarmonyOS app, later [ported to iOS](https://github.com/Svetoslav47/citytour-ios) with Expo | Wrote about 80% of the code, with Maria Stephanova |
+| [StereoMath](https://github.com/SectorCT/StereoMath) | Take a photo of a 3D geometry problem and get a step-by-step solution plus a 3D figure you can rotate. Hack TUES X, 2nd place | Top contributor on a team of five: the React Native app and the 3D renderer |
+| [WayPoint](https://github.com/SectorCT/WayPoint) | Plans daily delivery routes: clusters packages per driver with K-means, routes them with OSRM, reroutes live when a driver goes off the plan. Hack TUES 11, Bosch award | Led the React Native frontend |
+
+Also built: websites for [Tuida](https://www.tuida.life) and [DogTags BG](https://dogtag.bg), and SimplyForm, a form-to-email service used by client sites (private).
+
+## Awards
+
+- **Best Youth Startup in Bulgaria 2026**, 1st place in Business Stars, with CarBNP
+- **National IT Olympiad (NOIT) 2026**, laureate, 4th nationally (grades 11–12); CarBNP 3rd in Distributed Applications
+- **TUES Fest 2026**, 1st place overall, with CarBNP
+- **HackYeah 2025**, 3rd place, Defence category (QuantumColab)
+- **Hack TUES**: 2nd overall at Hack TUES X (StereoMath), Bosch award at Hack TUES 11 (WayPoint), Technical University of Sofia award at Hack TUES 12 (Qlean), 4th overall and Best Presentation at Hack TUES 8
+
+## Stack
+
+**Mobile:** React Native, Expo, EAS, fastlane, App Store Connect, Google Play Console
+**Web:** React, TypeScript, Vite
+**Backend:** Node.js, Express, MongoDB, PostgreSQL, Django, Stripe and Stripe Connect, AWS S3, Docker, GitHub Actions
+**Hardware:** ESP32 (C++), Bluetooth LE, OTA updates, KiCad for the board I'm designing
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/iliev-svetoslav/).
