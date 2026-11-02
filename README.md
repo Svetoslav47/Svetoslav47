@@ -38,7 +38,7 @@ Also built: websites for [Tuida](https://www.tuida.life) and [DogTags BG](https:
 
 - **Best Youth Startup in Bulgaria 2026**, 1st place in Business Stars, with CarBNP
 - **National IT Olympiad (NOIT) 2026**, laureate, 4th nationally (grades 11–12); CarBNP 3rd in Distributed Applications
-- **TUES Fest 2026**, 1st place overall, with CarBNP
+- **TUES Fest 2026**, 1st place in the Software category, with CarBNP
 - **HackYeah 2025**, 3rd place, Defence category (QuantumColab)
 - **Hack TUES**: 2nd overall at Hack TUES X (StereoMath), Bosch award at Hack TUES 11 (WayPoint), Technical University of Sofia award at Hack TUES 12 (Qlean), 4th overall and Best Presentation at Hack TUES 8
 
